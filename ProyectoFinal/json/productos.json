@@ -1,0 +1,38 @@
+[{
+        "id": 1,
+        "tipo": "Recarga",
+        "nombre": "Recarga 1 litro",
+        "precio": 350,
+        "foto": "../media/products/Botella.png"
+    }, {
+        "id": 2,
+        "tipo": "Regarga",
+        "nombre": "Recarga 2 litros",
+        "precio": 650,
+        "foto": "../media/products/Growler.png"
+    }, {
+        "id": 3,
+        "tipo": "Barril",
+        "nombre": "Barril 30 litros",
+        "precio": 9500,
+        "foto": "../media/products/Barril30.png"
+    }, {
+        "id": 4,
+        "tipo": "Barril",
+        "nombre": "Barril 50 litros",
+        "precio": 14000,
+        "foto": "../media/products/Barril50.png"
+    }, {
+        "id": 5,
+        "tipo": "Envase",
+        "nombre": "Botella de 1 litro",
+        "precio": 250,
+        "foto": "../media/products/Botella.png"
+    }, {
+        "id": 6,
+        "tipo": "Envase",
+        "nombre": "Growler de 2 litros",
+        "precio": 500,
+        "foto": "../media/products/Growler.png"
+    }
+]
